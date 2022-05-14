@@ -1,0 +1,1 @@
+<script>alert('ce lien n\'existe plus');</script>
